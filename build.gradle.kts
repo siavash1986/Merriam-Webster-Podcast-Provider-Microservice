@@ -9,7 +9,7 @@ plugins {
 
 group = "me.siavash.wotd"
 version = "$version"
-java.sourceCompatibility = JavaVersion.VERSION_11
+java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 configurations {
 	compileOnly {
